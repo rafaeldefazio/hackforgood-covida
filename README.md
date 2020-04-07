@@ -1,4 +1,5 @@
 # Hack For Good - Covida
+![Logo](https://github.com/rafaeldefazio/hackforgood-covida/raw/master/LogoExtenso.png)
 
 ## O projeto:
 - [**/functions:**](https://github.com/rafaeldefazio/hackforgood-covida/tree/master/functions) funções (Functions) - Twilio Runtime
