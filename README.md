@@ -11,6 +11,8 @@
 
 Para testar, clique [aqui](https://api.whatsapp.com/send?phone=+14155238886&text=join%20soap-universe).
 
+Envie `join soap-universe` para `+14155238886`.
+
 ## Diagrama de funcionamento
 
 ![Diagrama](https://raw.githubusercontent.com/rafaeldefazio/hackforgood-covida/master/covida.jpg)
