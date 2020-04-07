@@ -3,7 +3,7 @@
 ## O projeto:
 - **/functions:** funções (Functions) - Twilio Runtime
 - **/tasks** - Twilio Autopilot
-- **/covida-node** - Script para disparo de vídeo para usuários que optaram por receber atualizações periódicas
+- **/covida-node** - Script em node para disparo de vídeo para usuários que optaram por receber atualizações periódicas
 - **pitch_covida.mp4** - Pitch do projeto
 - **Banco de dados** - Firebase Firestore
 
