@@ -1,9 +1,9 @@
 # Hack For Good - Covida
 
 ## O projeto:
-- **/functions:** funções (Functions) - Twilio Runtime
-- **/tasks** - Twilio Autopilot
-- **/covida-node** - Script em node para disparo de vídeo para usuários que optaram por receber atualizações periódicas
+- [**/functions:**](https://github.com/rafaeldefazio/hackforgood-covida/tree/master/functions) funções (Functions) - Twilio Runtime
+- [**/tasks**](https://github.com/rafaeldefazio/hackforgood-covida/tree/master/tasks) - Twilio Autopilot
+- [**/covida-node**](https://github.com/rafaeldefazio/covida-node/tree/54bf22f5eb4e47df4c59028d2e237e43eead4bbd) - Script em node para disparo de vídeo para usuários que optaram por receber atualizações periódicas
 - **Banco de dados** - Firebase Firestore
 
 ## Outros arquivos:
