@@ -29,5 +29,5 @@ Se estiver pelo celular, clique [aqui](https://api.whatsapp.com/send?phone=+1415
 
 ![Diagrama](https://raw.githubusercontent.com/rafaeldefazio/hackforgood-covida/master/covida.jpg)
 
-## Banco de daddos
+## Banco de dados
 ![Firebase Firestore](https://github.com/rafaeldefazio/hackforgood-covida/raw/master/bd.png)
