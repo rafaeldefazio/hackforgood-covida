@@ -1,9 +1,9 @@
 # Hack For Good - Covida
 
 ## O projeto:
-- /functions: funções (Functions) - Twilio Runtime
-- /tasks - Twilio Autopilot
-- /covida-node - Script para disparo de vídeo para usuários que optaram por receber atualizações periódicas
+- **/functions:** funções (Functions) - Twilio Runtime
+- **/tasks** - Twilio Autopilot
+- **/covida-node** - Script para disparo de vídeo para usuários que optaram por receber atualizações periódicas
 
 ## Diagrama de funcionamento
 
