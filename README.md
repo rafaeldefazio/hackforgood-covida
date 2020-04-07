@@ -2,7 +2,7 @@
 ![Logo](https://github.com/rafaeldefazio/hackforgood-covida/raw/master/LogoExtenso.png)
 
 ## O projeto:
-- Site: https://lizard-clarinet-m8f3.squarespace.com/ | Senha: covida
+- Site: https://lizard-clarinet-m8f3.squarespace.com/ | Senha: `covida`
 - [**/functions:**](https://github.com/rafaeldefazio/hackforgood-covida/tree/master/functions) funções (Functions) - Twilio Runtime
 - [**/tasks**](https://github.com/rafaeldefazio/hackforgood-covida/tree/master/tasks) - Twilio Autopilot
 - [**/covida-node**](https://github.com/rafaeldefazio/covida-node/tree/54bf22f5eb4e47df4c59028d2e237e43eead4bbd) - Script em node para disparo de vídeo para usuários que optaram por receber atualizações periódicas
