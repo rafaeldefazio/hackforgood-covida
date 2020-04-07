@@ -1,6 +1,8 @@
 # Hack For Good - Covida
 ![Logo](https://github.com/rafaeldefazio/hackforgood-covida/raw/master/LogoExtenso.png)
 
+O objetivo principal do projeto COVIDA é tornar as informações mais acessíveis para os idosos e pessoas com pouca instrução acadêmica, por isso, as informações principais são vídeos curtos, produzidos com uma linguagem informal pelos professores das melhores universidades do país. Ele tem como meio de comunicação uma assistente automática, totalmente virtual, chamada Maravida, que através do WhatsApp pode, além de tirar diversas dúvidas, lhe enviar diariamente notícias e informações relevantes para você se manter informado e poder informar quem mais ama sem se preocupar com a fonte daquela informação.
+
 ## O projeto:
 - [**Site:**](https://lizard-clarinet-m8f3.squarespace.com/) - senha: `covida`
 - [**/functions:**](https://github.com/rafaeldefazio/hackforgood-covida/tree/master/functions) funções (Functions) - Twilio Runtime
