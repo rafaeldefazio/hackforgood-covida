@@ -8,8 +8,8 @@
 
 ## Outros arquivos:
 - **pitch_covida.mp4** - Pitch do projeto
-- [Vídeos com temtica **Direito**](https://drive.google.com/drive/folders/1XYn6DYPnF8Ihf9PkDAU2AMcVIj_5OLEY?usp=sharing)
-- [Vídeos com temtica **Saúde**](https://drive.google.com/drive/folders/1SGXEKbN62-tcQcfnivljYLJBmwPF-vuo?usp=sharing)
+- [Vídeos com temática **Direito**](https://drive.google.com/drive/folders/1XYn6DYPnF8Ihf9PkDAU2AMcVIj_5OLEY?usp=sharing)
+- [Vídeos com temática **Saúde**](https://drive.google.com/drive/folders/1SGXEKbN62-tcQcfnivljYLJBmwPF-vuo?usp=sharing)
 - [Apresentação da solução](https://drive.google.com/file/d/1ADTkMguSosI6d_UG5_Gp9ZU7RQ4EzlJd/view)
 
 
