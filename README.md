@@ -5,6 +5,7 @@
 - **/tasks** - Twilio Autopilot
 - **/covida-node** - Script para disparo de vídeo para usuários que optaram por receber atualizações periódicas
 - **pitch_covida.mp4** - Pitch do projeto
+- **Banco de dados** - Firebase Firestore
 
 
 ## Live demo:
