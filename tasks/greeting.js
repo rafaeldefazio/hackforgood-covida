@@ -1,0 +1,7 @@
+{
+	"actions": [
+		{
+			"redirect": "function://greeting"
+		}
+	]
+}
