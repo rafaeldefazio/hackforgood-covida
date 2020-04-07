@@ -6,6 +6,11 @@
 - **/covida-node** - Script para disparo de vídeo para usuários que optaram por receber atualizações periódicas
 - **pitch_covida.mp4** - Pitch do projeto
 
+
+## Live demo:
+
+Para testar, clique [aqui](https://api.whatsapp.com/send?phone=+14155238886&text=join%20soap-universe).
+
 ## Diagrama de funcionamento
 
 ![Diagrama](https://raw.githubusercontent.com/rafaeldefazio/hackforgood-covida/master/covida.jpg)
