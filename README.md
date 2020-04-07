@@ -10,7 +10,7 @@
 
 ## Outros arquivos:
 - [**pitch_covida.mp4**](https://github.com/rafaeldefazio/hackforgood-covida/raw/master/pitch_covida.mp4) - Pitch do projeto
-- **[Apresentação da solução**](https://drive.google.com/file/d/1ADTkMguSosI6d_UG5_Gp9ZU7RQ4EzlJd/view)
+- [**Apresentação da solução**](https://drive.google.com/file/d/1ADTkMguSosI6d_UG5_Gp9ZU7RQ4EzlJd/view)
 
 
 - [Vídeos com temática **Direito**](https://drive.google.com/drive/folders/1XYn6DYPnF8Ihf9PkDAU2AMcVIj_5OLEY?usp=sharing)
